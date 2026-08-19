@@ -1,0 +1,14 @@
+C:\Users\arthu\nova\bs404\patrimonio\patrimonio\obj\Debug\net8.0\patrimonio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\nova\bs404\patrimonio\patrimonio\obj\Debug\net8.0\patrimonio.AssemblyInfoInputs.cache
+C:\Users\arthu\nova\bs404\patrimonio\patrimonio\obj\Debug\net8.0\patrimonio.AssemblyInfo.cs
+C:\Users\arthu\nova\bs404\patrimonio\patrimonio\obj\Debug\net8.0\patrimonio.csproj.CoreCompileInputs.cache
+C:\Users\arthu\nova\bs404\patrimonio\patrimonio\bin\Debug\net8.0\patrimonio.exe
+C:\Users\arthu\nova\bs404\patrimonio\patrimonio\bin\Debug\net8.0\patrimonio.deps.json
+C:\Users\arthu\nova\bs404\patrimonio\patrimonio\bin\Debug\net8.0\patrimonio.runtimeconfig.json
+C:\Users\arthu\nova\bs404\patrimonio\patrimonio\bin\Debug\net8.0\patrimonio.dll
+C:\Users\arthu\nova\bs404\patrimonio\patrimonio\bin\Debug\net8.0\patrimonio.pdb
+C:\Users\arthu\nova\bs404\patrimonio\patrimonio\obj\Debug\net8.0\patrimonio.dll
+C:\Users\arthu\nova\bs404\patrimonio\patrimonio\obj\Debug\net8.0\refint\patrimonio.dll
+C:\Users\arthu\nova\bs404\patrimonio\patrimonio\obj\Debug\net8.0\patrimonio.pdb
+C:\Users\arthu\nova\bs404\patrimonio\patrimonio\obj\Debug\net8.0\patrimonio.genruntimeconfig.cache
+C:\Users\arthu\nova\bs404\patrimonio\patrimonio\obj\Debug\net8.0\ref\patrimonio.dll
