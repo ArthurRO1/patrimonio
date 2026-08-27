@@ -12,3 +12,4 @@ C:\Users\arthu\nova\bs404\patrimonio\patrimonio\obj\Debug\net8.0\refint\patrimon
 C:\Users\arthu\nova\bs404\patrimonio\patrimonio\obj\Debug\net8.0\patrimonio.pdb
 C:\Users\arthu\nova\bs404\patrimonio\patrimonio\obj\Debug\net8.0\patrimonio.genruntimeconfig.cache
 C:\Users\arthu\nova\bs404\patrimonio\patrimonio\obj\Debug\net8.0\ref\patrimonio.dll
+C:\Users\arthu\nova\bs404\patrimonio\patrimonio\obj\Debug\net8.0\patrimonio.sourcelink.json
