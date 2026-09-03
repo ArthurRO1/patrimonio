@@ -55,3 +55,16 @@ Console.WriteLine($"Saldo da conta: {conta.Saldo}");
 Console.WriteLine($"Especial da conta: {conta.Especial}");
 
 Console.WriteLine("Precion enter");
+
+using Patrimonio.Dominio;
+
+Client cli01 = new Client();
+cli01.Id = 0;
+cli01.Nome = "User";
+cli01.Nascimento = new DateTime(1985, 10, 1);
+Console.WriteLine(cli01.Nascimento);
+
+Client cli02 = new Client(1, "Arthur", new DateTime(2006, 11, 14));
+
+Console.WriteLine(cli02.Nascimento);
+
